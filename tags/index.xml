@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://brillaverde.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://brillaverde.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Eventos</title>
+      <link>https://brillaverde.org/tags/eventos/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://brillaverde.org/tags/eventos/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Asamblea</title>
@@ -25,16 +35,6 @@
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://brillaverde.org/tags/legislaci%C3%B3n/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Eventos</title>
-      <link>https://brillaverde.org/tags/eventos/</link>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://brillaverde.org/tags/eventos/</guid>
       <description></description>
       
     </item>
