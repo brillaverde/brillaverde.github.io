@@ -4,25 +4,31 @@
 
   <url>
     <loc>https://brillaverde.org/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://brillaverde.org/posts/encuentro-mercado-social/</loc>
+    <lastmod>2026-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://brillaverde.org/tags/eventos/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://brillaverde.org/posts/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://brillaverde.org/tags/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
